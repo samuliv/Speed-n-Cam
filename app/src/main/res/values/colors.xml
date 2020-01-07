@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="sncYellow">#fad200</color>
+    <color name="sncGreen">#8BC34A</color>
+    <color name="sncRed">#DF1229</color>
 </resources>

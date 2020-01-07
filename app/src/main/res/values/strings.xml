@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Speed'n'Cam</string>
+    <string name="app_name">Speed\'n\'Cam</string>
+    <string name="current_speed">Current Speed</string>
     <string name="speed_unit_type_kmh">km/h</string>
-    <string name="speed_camera_icon_description">Speed Camera Icon</string>
     <string name="speed_null">59</string>
+    <string name="speed_camera_icon_description">Speed Camera Icon</string>
+    <string name="speed_camera_icon_settings">Settings Icon</string>
 </resources>

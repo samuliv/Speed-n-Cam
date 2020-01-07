@@ -1,4 +1,4 @@
-package com.example.speedncam
+package fi.tucom.speedncam
 
 import org.junit.Test
 
